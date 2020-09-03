@@ -1,4 +1,5 @@
 # Portifolio1
+    
 Portifolio do Desenvolvedor
 
 ## Tarefas
@@ -7,7 +8,7 @@ Portifolio do Desenvolvedor
 
  ## Icones
 
- :up: nova funcionalidade
- :down: atualizaçao
- :left: correçao de bug
- :right: release
+ - :up: nova funcionalidade
+ - :down: atualizaçao
+ - :left: correçao de bug
+ - :right: release
